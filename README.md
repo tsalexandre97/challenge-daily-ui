@@ -4,4 +4,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Cada dia cumprindo um desafio diferente do Daily UI:
 
-*01 - Formulário simples de inscrição
+01 - Formulário simples de inscrição
