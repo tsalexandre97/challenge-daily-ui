@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Challenge UI
 
-Cumprindo desafios diferentes do Daily UI:
+Cumprindo desafios diferentes do Challenge UI:
 
 01 - Formulário simples de inscrição (Sign Up)
 
